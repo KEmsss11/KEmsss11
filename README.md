@@ -1,5 +1,5 @@
 ﻿# 💫 About Me:
-I'm a vibe coder :>>
+I'm a vibe coder and learner :>>
 
 
 ## 🌐 Socials:
