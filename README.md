@@ -6,7 +6,9 @@ Code. Create. Improve. Repeat.
 🎨 UI/UX + creative tools enjoyer
 🚀 Building real-world systems & web apps
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=KEmsss11)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KEmsss11&color=0e75b6&style=flat" />
+</p>
 
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-kemuelpaulnalagon%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kemuelpaulnalagon@gmail.com)
